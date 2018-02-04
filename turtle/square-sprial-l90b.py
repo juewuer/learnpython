@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Time    : 2018/2/4 18:32
-# @Author  : 
+# @Author  :
 # @Site    : 
 # @File    : square-sprial-l90b.py.py
 # @copyright: ksyun
